@@ -125,4 +125,3 @@ del EchoSeal.spec
 ```bash
 rm -rf build dist EchoSeal.spec
 ```
-```
