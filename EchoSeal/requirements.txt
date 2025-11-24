@@ -1,0 +1,4 @@
+psutil
+wmi; platform_system=="Windows"
+colorama
+pyinstaller
