@@ -39,3 +39,4 @@ Muchos atacantes y malware modernos ("evasive malware") detectan si están en un
 *   (Experimental) Detección de hooks básicos en APIs de Windows.
 
 ---
+## 🛠️- [Guía de complilación](guia.md)
